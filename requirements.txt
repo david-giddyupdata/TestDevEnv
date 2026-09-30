@@ -1,0 +1,10 @@
+pandas
+plotly
+dash
+dash-bootstrap-components
+openpyxl
+pyarrow
+awswrangler
+boto3
+psycopg2-binary
+python-docx
